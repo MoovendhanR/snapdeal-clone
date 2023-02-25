@@ -33,3 +33,31 @@ To run, follow these steps:
 ![Screenshot (32)](https://user-images.githubusercontent.com/96133324/165300298-73db5bb3-a88e-4e60-868e-0d7add5e1c9b.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/96133324/165300343-e1be2f68-242a-4c30-981a-a118354222f2.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/96133324/165300381-fed6ca78-0c65-49eb-92f4-da1e6cd8cc3b.png)
+
+
+
+## Run Locally
+
+```bash
+  git clone https://github.com/MoovendhanR/snapdeal-clone.git
+
+Go to the project directory
+
+```bash
+  cd snapdeal-clone
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+
